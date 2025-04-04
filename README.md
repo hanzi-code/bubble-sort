@@ -1,2 +1,2 @@
-# bubble-sort
-A Bubble Sort algorithm.
+# Bubble Sort Algorithm
+A Bubble Sort Algorithm Written in Ruby.
